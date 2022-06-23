@@ -1,7 +1,7 @@
 # 💫About Me :
 
 Hello I'm Veysel I'm interesting in Cyber Security.
-Please Give ❤️ Also share 🔗/s with your friends if you like it.
+Share my Github account with your friends if you like it. 👨🏽‍💻
 ## You can contact me at veyselgorgen@hotmail.com
 
 
