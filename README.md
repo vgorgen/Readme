@@ -1,6 +1,7 @@
 # 💫About Me :
 
-Hello I'm Veysel I'm interesting in Cyber Security in Kali Linux 
+Hello I'm Veysel I'm interesting in Cyber Security.
+Please Give ❤️ and add to your 🔖s . Also share 🔗/s with your friends if you like it.
 
 
 # 💻Tech Stack
