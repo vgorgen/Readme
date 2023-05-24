@@ -1,6 +1,6 @@
 # 💫About Me :
 
-Hello I'm Veysel I'm interesting in Cyber Security.
+I am a new game developer with a passion for creating innovative and engaging experiences. I am proficient in a variety of programming languages and game engines, and I am always eager to learn new technologies. I am also a strong team player and I am confident that I can contribute to the success of any game development project..
 
 ## You can contact me at veyselgorgen@hotmail.com
 
