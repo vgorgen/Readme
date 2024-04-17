@@ -1,10 +1,10 @@
 # 💫About Me :
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Rubik&weight=600&duration=1500&pause=1500&width=490&lines=Welcome+to+my+Profile!;I'm+a+Game+Developerr+💻;" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Rubik&weight=600&duration=1500&pause=1500&width=490&lines=Welcome+to+my+Profile!;I'm+a+Game+Developer+💻;" alt="Typing SVG" /></a>
 
 I am a new game developer with a passion for creating innovative and engaging experiences. I am proficient in a variety of programming languages and game engines, and I am always eager to learn new technologies. I am also a strong team player and I am confident that I can contribute to the success of any game development project..
 
-## You can contact me at veyselgorgen@hotmail.com
+# How to reach me veyselgorgen@hotmail.com
 
 
 # 💻Tech Stack
